@@ -1,0 +1,1 @@
+The project is all about familiarizing with SCRUM FRAMEWORK by building a mini app
