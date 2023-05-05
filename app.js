@@ -2,7 +2,7 @@ const express = require('express');
 const dotenv = require('dotenv')
 dotenv.config({ path: './.env' })
 const connectDB = require('./src/DB/connect');
-const rootRoute = require('./src/Routes/index.route')
+const rootRoute = require('./src/routes/index.route')
 
 const app = express();
 
