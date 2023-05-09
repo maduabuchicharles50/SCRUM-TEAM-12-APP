@@ -47,7 +47,7 @@ class UserController {
         }
 
         //else create a new user 
-         const newUser = await UserService.create({ data });
+         const newUser = await UserService.create(data);
             
             res.status(201).json({
             success: true,

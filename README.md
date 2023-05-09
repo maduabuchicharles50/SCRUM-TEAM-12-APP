@@ -22,4 +22,4 @@ The project is all about familiarizing with SCRUM FRAMEWORK by building a mini a
 
 - Database Schema : https://dbdesigner.page.link/fco3ABALnMsmXvfp9
 
-- API Documentation : https://documenter.getpostman.com/view/23369669/2s93JrvjHv
+- API Documentation : https://documenter.getpostman.com/view/23369669/2s93eYWYMu
